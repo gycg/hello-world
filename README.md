@@ -1,2 +1,6 @@
 # hello-world
-gyc's first repository on github
+Gyc's first repository on github
+
+Hi Humans:
+
+Gyc here, I like Python.
